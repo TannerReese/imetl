@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# sample images used to test program
+samples
+
+# build
+imetl_gcj
+imetl_wrap
